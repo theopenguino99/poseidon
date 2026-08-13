@@ -127,6 +127,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+qiyangs_poseidon/
 
 # Spyder project settings
 .spyderproject
